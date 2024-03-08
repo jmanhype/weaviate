@@ -1,0 +1,444 @@
+{
+    "math_reasoning_modules": [
+        {
+            "id": 1,
+            "field": "Linear Algebra",
+            "type": "UniqueDynamicProblemSolving_1",
+            "methods": [
+                "Simulation",
+                "Data Interpretation",
+                "Equation Solving"
+            ],
+            "description": "Investigate vector spaces and linear mappings between them."
+        },
+        {
+            "id": 2,
+            "field": "Set Theory",
+            "type": "UniqueDynamicProblemSolving_2",
+            "methods": [
+                "Statistical Modeling",
+                "Geometric Reasoning",
+                "Algorithm Design"
+            ],
+            "description": "Explore the concept of sets, collections of objects defined by a common property."
+        },
+        {
+            "id": 3,
+            "field": "Combinatorics",
+            "type": "UniqueDynamicProblemSolving_3",
+            "methods": [
+                "Algorithm Design",
+                "Equation Solving",
+                "Data Interpretation"
+            ],
+            "description": "Analyze combinations, permutations, and the enumeration and arrangement of elements in sets."
+        },
+        {
+            "id": 4,
+            "field": "Algebra",
+            "type": "UniqueDynamicProblemSolving_4",
+            "methods": [
+                "Simulation",
+                "Algorithm Design",
+                "Data Interpretation"
+            ],
+            "description": "Explore algebraic structures, equations, and theories to understand relationships and solve problems."
+        },
+        {
+            "id": 5,
+            "field": "Topology",
+            "type": "UniqueDynamicProblemSolving_5",
+            "methods": [
+                "Pattern Recognition",
+                "Geometric Reasoning",
+                "Simulation"
+            ],
+            "description": "Understand spatial properties preserved under continuous transformations."
+        },
+        {
+            "id": 6,
+            "field": "Game Theory",
+            "type": "UniqueDynamicProblemSolving_6",
+            "methods": [
+                "Geometric Reasoning",
+                "Algorithm Design",
+                "Pattern Recognition"
+            ],
+            "description": "Analyze strategic interactions where the outcome depends on each participant's choices."
+        },
+        {
+            "id": 7,
+            "field": "Category Theory",
+            "type": "UniqueDynamicProblemSolving_7",
+            "methods": [
+                "Equation Solving",
+                "Optimization",
+                "Statistical Modeling"
+            ],
+            "description": "Study abstract structures and relationships between them in mathematics."
+        },
+        {
+            "id": 8,
+            "field": "Calculus",
+            "type": "UniqueDynamicProblemSolving_8",
+            "methods": [
+                "Proof Strategies",
+                "Function Analysis",
+                "Equation Solving"
+            ],
+            "description": "Investigate change and motion through differential and integral calculus to solve real-world problems."
+        },
+        {
+            "id": 9,
+            "field": "Dynamical Systems",
+            "type": "UniqueDynamicProblemSolving_9",
+            "methods": [
+                "Data Interpretation",
+                "Pattern Recognition",
+                "Geometric Reasoning"
+            ],
+            "description": "Study systems that evolve over time, focusing on changes, stability, and chaos."
+        },
+        {
+            "id": 10,
+            "field": "Cryptography",
+            "type": "UniqueDynamicProblemSolving_10",
+            "methods": [
+                "Simulation",
+                "Algorithm Design",
+                "Equation Solving"
+            ],
+            "description": "Secure communication through codes and encryption, essential for data protection."
+        },
+        {
+            "id": 11,
+            "field": "Statistics",
+            "type": "UniqueDynamicProblemSolving_11",
+            "methods": [
+                "Data Interpretation",
+                "Proof Strategies",
+                "Function Analysis"
+            ],
+            "description": "Analyze data and use statistical methods to make informed decisions and predictions."
+        },
+        {
+            "id": 12,
+            "field": "Logic",
+            "type": "UniqueDynamicProblemSolving_12",
+            "methods": [
+                "Data Interpretation",
+                "Equation Solving",
+                "Function Analysis"
+            ],
+            "description": "Use logic to reason and solve problems, including the study of propositions, set theory, and computability."
+        },
+        {
+            "id": 13,
+            "field": "Probability",
+            "type": "UniqueDynamicProblemSolving_13",
+            "methods": [
+                "Optimization",
+                "Algorithm Design",
+                "Statistical Modeling"
+            ],
+            "description": "Assess likelihoods and model uncertainty in various contexts."
+        },
+        {
+            "id": 14,
+            "field": "Mathematical Biology",
+            "type": "UniqueDynamicProblemSolving_14",
+            "methods": [
+                "Simulation",
+                "Equation Solving",
+                "Optimization"
+            ],
+            "description": "Apply mathematics to biological problems, studying life and organisms."
+        },
+        {
+            "id": 15,
+            "field": "Mathematical Physics",
+            "type": "UniqueDynamicProblemSolving_15",
+            "methods": [
+                "Function Analysis",
+                "Proof Strategies",
+                "Data Interpretation"
+            ],
+            "description": "Apply mathematical methods to solve problems in physics and understand the physical universe."
+        },
+        {
+            "id": 16,
+            "field": "Number Theory",
+            "type": "UniqueDynamicProblemSolving_16",
+            "methods": [
+                "Geometric Reasoning",
+                "Proof Strategies",
+                "Pattern Recognition"
+            ],
+            "description": "Study integers, their properties, and relationships, including prime numbers and divisibility."
+        },
+        {
+            "id": 17,
+            "field": "Applied Mathematics",
+            "type": "UniqueDynamicProblemSolving_17",
+            "methods": [
+                "Proof Strategies",
+                "Statistical Modeling",
+                "Algorithm Design"
+            ],
+            "description": "Apply mathematical methods to solve practical problems in science, engineering, and beyond."
+        },
+        {
+            "id": 18,
+            "field": "Numerical Analysis",
+            "type": "UniqueDynamicProblemSolving_18",
+            "methods": [
+                "Function Analysis",
+                "Statistical Modeling",
+                "Optimization"
+            ],
+            "description": "Use numerical methods to solve mathematical problems and analyze their accuracy and efficiency."
+        },
+        {
+            "id": 19,
+            "field": "Discrete Math",
+            "type": "UniqueDynamicProblemSolving_19",
+            "methods": [
+                "Equation Solving",
+                "Function Analysis",
+                "Optimization"
+            ],
+            "description": "Delve into countable, distinct elements and structures, vital for computer science and logic."
+        },
+        {
+            "id": 20,
+            "field": "Geometry",
+            "type": "UniqueDynamicProblemSolving_20",
+            "methods": [
+                "Simulation",
+                "Pattern Recognition",
+                "Optimization"
+            ],
+            "description": "Examine shapes, sizes, patterns, and properties of space and figures."
+        },
+        {
+            "id": 21,
+            "field": "Linear Algebra",
+            "type": "UniqueDynamicProblemSolving_21",
+            "methods": [
+                "Geometric Reasoning",
+                "Proof Strategies",
+                "Algorithm Design"
+            ],
+            "description": "Investigate vector spaces and linear mappings between them."
+        },
+        {
+            "id": 22,
+            "field": "Set Theory",
+            "type": "UniqueDynamicProblemSolving_22",
+            "methods": [
+                "Function Analysis",
+                "Simulation",
+                "Data Interpretation"
+            ],
+            "description": "Explore the concept of sets, collections of objects defined by a common property."
+        },
+        {
+            "id": 23,
+            "field": "Combinatorics",
+            "type": "UniqueDynamicProblemSolving_23",
+            "methods": [
+                "Function Analysis",
+                "Data Interpretation",
+                "Pattern Recognition"
+            ],
+            "description": "Analyze combinations, permutations, and the enumeration and arrangement of elements in sets."
+        },
+        {
+            "id": 24,
+            "field": "Algebra",
+            "type": "UniqueDynamicProblemSolving_24",
+            "methods": [
+                "Data Interpretation",
+                "Proof Strategies",
+                "Equation Solving"
+            ],
+            "description": "Explore algebraic structures, equations, and theories to understand relationships and solve problems."
+        },
+        {
+            "id": 25,
+            "field": "Topology",
+            "type": "UniqueDynamicProblemSolving_25",
+            "methods": [
+                "Statistical Modeling",
+                "Function Analysis",
+                "Geometric Reasoning"
+            ],
+            "description": "Understand spatial properties preserved under continuous transformations."
+        },
+        {
+            "id": 26,
+            "field": "Game Theory",
+            "type": "UniqueDynamicProblemSolving_26",
+            "methods": [
+                "Function Analysis",
+                "Proof Strategies",
+                "Data Interpretation"
+            ],
+            "description": "Analyze strategic interactions where the outcome depends on each participant's choices."
+        },
+        {
+            "id": 27,
+            "field": "Category Theory",
+            "type": "UniqueDynamicProblemSolving_27",
+            "methods": [
+                "Statistical Modeling",
+                "Optimization",
+                "Proof Strategies"
+            ],
+            "description": "Study abstract structures and relationships between them in mathematics."
+        },
+        {
+            "id": 28,
+            "field": "Calculus",
+            "type": "UniqueDynamicProblemSolving_28",
+            "methods": [
+                "Equation Solving",
+                "Statistical Modeling",
+                "Function Analysis"
+            ],
+            "description": "Investigate change and motion through differential and integral calculus to solve real-world problems."
+        },
+        {
+            "id": 29,
+            "field": "Dynamical Systems",
+            "type": "UniqueDynamicProblemSolving_29",
+            "methods": [
+                "Data Interpretation",
+                "Statistical Modeling",
+                "Geometric Reasoning"
+            ],
+            "description": "Study systems that evolve over time, focusing on changes, stability, and chaos."
+        },
+        {
+            "id": 30,
+            "field": "Cryptography",
+            "type": "UniqueDynamicProblemSolving_30",
+            "methods": [
+                "Proof Strategies",
+                "Data Interpretation",
+                "Function Analysis"
+            ],
+            "description": "Secure communication through codes and encryption, essential for data protection."
+        },
+        {
+            "id": 31,
+            "field": "Statistics",
+            "type": "UniqueDynamicProblemSolving_31",
+            "methods": [
+                "Function Analysis",
+                "Statistical Modeling",
+                "Proof Strategies"
+            ],
+            "description": "Analyze data and use statistical methods to make informed decisions and predictions."
+        },
+        {
+            "id": 32,
+            "field": "Logic",
+            "type": "UniqueDynamicProblemSolving_32",
+            "methods": [
+                "Algorithm Design",
+                "Proof Strategies",
+                "Geometric Reasoning"
+            ],
+            "description": "Use logic to reason and solve problems, including the study of propositions, set theory, and computability."
+        },
+        {
+            "id": 33,
+            "field": "Probability",
+            "type": "UniqueDynamicProblemSolving_33",
+            "methods": [
+                "Equation Solving",
+                "Statistical Modeling",
+                "Pattern Recognition"
+            ],
+            "description": "Assess likelihoods and model uncertainty in various contexts."
+        },
+        {
+            "id": 34,
+            "field": "Mathematical Biology",
+            "type": "UniqueDynamicProblemSolving_34",
+            "methods": [
+                "Equation Solving",
+                "Geometric Reasoning",
+                "Algorithm Design"
+            ],
+            "description": "Apply mathematics to biological problems, studying life and organisms."
+        },
+        {
+            "id": 35,
+            "field": "Mathematical Physics",
+            "type": "UniqueDynamicProblemSolving_35",
+            "methods": [
+                "Geometric Reasoning",
+                "Function Analysis",
+                "Pattern Recognition"
+            ],
+            "description": "Apply mathematical methods to solve problems in physics and understand the physical universe."
+        },
+        {
+            "id": 36,
+            "field": "Number Theory",
+            "type": "UniqueDynamicProblemSolving_36",
+            "methods": [
+                "Geometric Reasoning",
+                "Data Interpretation",
+                "Simulation"
+            ],
+            "description": "Study integers, their properties, and relationships, including prime numbers and divisibility."
+        },
+        {
+            "id": 37,
+            "field": "Applied Mathematics",
+            "type": "UniqueDynamicProblemSolving_37",
+            "methods": [
+                "Proof Strategies",
+                "Statistical Modeling",
+                "Data Interpretation"
+            ],
+            "description": "Apply mathematical methods to solve practical problems in science, engineering, and beyond."
+        },
+        {
+            "id": 38,
+            "field": "Numerical Analysis",
+            "type": "UniqueDynamicProblemSolving_38",
+            "methods": [
+                "Statistical Modeling",
+                "Optimization",
+                "Pattern Recognition"
+            ],
+            "description": "Use numerical methods to solve mathematical problems and analyze their accuracy and efficiency."
+        },
+        {
+            "id": 39,
+            "field": "Discrete Math",
+            "type": "UniqueDynamicProblemSolving_39",
+            "methods": [
+                "Optimization",
+                "Equation Solving",
+                "Simulation"
+            ],
+            "description": "Delve into countable, distinct elements and structures, vital for computer science and logic."
+        },
+        {
+            "id": 40,
+            "field": "Geometry",
+            "type": "UniqueDynamicProblemSolving_40",
+            "methods": [
+                "Function Analysis",
+                "Proof Strategies",
+                "Algorithm Design"
+            ],
+            "description": "Examine shapes, sizes, patterns, and properties of space and figures."
+        }
+    ]
+}
